@@ -4,6 +4,7 @@ ipch
 output
 Geenie.opensdf
 Geenie.sdf
+Geenie.suo
 Geenie.vcxproj.user
 res/win32/*.png
 res/win32/*.svg

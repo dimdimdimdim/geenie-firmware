@@ -1,0 +1,11 @@
+.vs
+.settings
+ipch
+output
+Geenie.opensdf
+Geenie.sdf
+Geenie.vcxproj.user
+res/win32/*.png
+res/win32/*.svg
+res/win32/Geenie.aps
+res/win32/ImgConv.exe

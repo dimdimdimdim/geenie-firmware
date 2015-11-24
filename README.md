@@ -7,6 +7,7 @@ The goals are summarized below:
 - Responsive and powerful enough
 - Low power consumption
 - Small and nice looking
+
 The software shows a HP48-like interface to the user, and uses Reverse Polish Notation.
 
 This specific part of the project is dedicated to the firmware of the calculator.
